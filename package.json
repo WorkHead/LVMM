@@ -1,0 +1,20 @@
+{
+  "name": "node_h5_localization",
+  "version": "1.0.0",
+  "description": "node_h5_localization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lvmm": "./index.js"
+  },
+  "author": "tanjiasheng",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "clean-css": "^4.0.6",
+    "ncp": "^2.0.0",
+    "uglify-js2": "^2.1.11"
+  }
+}
